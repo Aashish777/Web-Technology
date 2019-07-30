@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Registration From Creation</title>
+	<title>student Registration file </title>
 	<link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <body>
